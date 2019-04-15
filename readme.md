@@ -4,7 +4,7 @@
 ## 开发提示
  
  ## API规范
-  本项目api规范遵循restful API 规范，项目中有个简单的示范 http://localhost:8080/nearstBuy/Goods/1 
+  本项目api规范遵循restful API 规范
  
  ## 项目运行环境介绍
  
