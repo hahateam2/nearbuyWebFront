@@ -2,9 +2,6 @@
 ## 这个仓库是就近买前端项目
 
 ## 开发提示
-
- 如果你想添加自己手写的mapper.xml 文件实现特定的sql操作，只能添加在 src\main\resources\mapper\selfCreateMapper 这个，目录下，因为mapper文件夹下的xml文件</br>
- 可能会有重新被覆盖的可能（当数据库字段变化会用软件重新生成一次xml文件）</br>
  
  ## API规范
   本项目api规范遵循restful API 规范，项目中有个简单的示范 http://localhost:8080/nearstBuy/Goods/1 
